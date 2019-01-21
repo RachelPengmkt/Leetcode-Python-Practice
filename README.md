@@ -1,2 +1,2 @@
 # Leetcode-Python-Practice
-This repository record my practice of Python coding on Leetcode
+This repository records my practice of Python coding on Leetcode
